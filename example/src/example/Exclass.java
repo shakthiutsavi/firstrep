@@ -6,7 +6,7 @@ public class Exclass {
 		// TODO Auto-generated method stub
 
 System.out.println("Enter the numbers to be added");
- Scanner sc=new Scanner(System.in);
+ Scanner sc =new Scanner(System.in);
  int i=sc.nextInt();
  int j=sc.nextInt();
  int x;
