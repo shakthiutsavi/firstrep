@@ -15,6 +15,7 @@ System.out.println("the avergae of the nymbers is " +i);
 
 
 
+
 	}
 
 }
